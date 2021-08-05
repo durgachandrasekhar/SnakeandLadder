@@ -6,10 +6,10 @@ namespace SnakeandLadder
     {
         static void Main(string[] args)
         {
-           
             Console.WriteLine("Snake And Ladder problem");
-            int singleplayer = 1;
-            int position = 0;
+            Random rand = new Random();
+            int dicenumber = rand.Next(1,7);
+            Console.WriteLine("The value of dice is " + dicenumber);
         }
     }
 }
