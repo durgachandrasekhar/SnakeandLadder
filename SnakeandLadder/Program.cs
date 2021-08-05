@@ -9,6 +9,7 @@ namespace SnakeandLadder
             const int Ladder = 1;
             const int Snake = 2;
             int position = 0;
+            int dieRoleCount = 0;
             Console.WriteLine("Snake And Ladder problem");
             while (position < 100)
             {
@@ -16,6 +17,7 @@ namespace SnakeandLadder
                 int dicenumber = rand.Next(1, 7);
                 Console.WriteLine("The value of dice is " + dicenumber);
                 int options = rand.Next(0, 3);
+                dieRoleCount++;
 
                 switch (options)
                 {
@@ -38,7 +40,7 @@ namespace SnakeandLadder
                 if (position > 100)
                     position -= dicenumber;
             }
-
+            Console.WriteLine("The Total number of Times Die Role " + dieRoleCount);
 
         }
     }
