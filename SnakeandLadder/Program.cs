@@ -35,6 +35,8 @@ namespace SnakeandLadder
 
                 }
                 Console.WriteLine("The Position of Player Wins " + position);
+                if (position > 100)
+                    position -= dicenumber;
             }
 
 
