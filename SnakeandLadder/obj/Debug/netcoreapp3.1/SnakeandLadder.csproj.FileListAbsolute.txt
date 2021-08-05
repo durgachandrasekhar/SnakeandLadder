@@ -1,0 +1,13 @@
+E:\New folder\snakeandladder\SnakeandLadder\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.csproj.AssemblyReference.cache
+E:\New folder\snakeandladder\SnakeandLadder\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.AssemblyInfoInputs.cache
+E:\New folder\snakeandladder\SnakeandLadder\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.AssemblyInfo.cs
+E:\New folder\snakeandladder\SnakeandLadder\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.csproj.CoreCompileInputs.cache
+E:\New folder\snakeandladder\SnakeandLadder\SnakeandLadder\bin\Debug\netcoreapp3.1\SnakeandLadder.exe
+E:\New folder\snakeandladder\SnakeandLadder\SnakeandLadder\bin\Debug\netcoreapp3.1\SnakeandLadder.deps.json
+E:\New folder\snakeandladder\SnakeandLadder\SnakeandLadder\bin\Debug\netcoreapp3.1\SnakeandLadder.runtimeconfig.json
+E:\New folder\snakeandladder\SnakeandLadder\SnakeandLadder\bin\Debug\netcoreapp3.1\SnakeandLadder.runtimeconfig.dev.json
+E:\New folder\snakeandladder\SnakeandLadder\SnakeandLadder\bin\Debug\netcoreapp3.1\SnakeandLadder.dll
+E:\New folder\snakeandladder\SnakeandLadder\SnakeandLadder\bin\Debug\netcoreapp3.1\SnakeandLadder.pdb
+E:\New folder\snakeandladder\SnakeandLadder\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.dll
+E:\New folder\snakeandladder\SnakeandLadder\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.pdb
+E:\New folder\snakeandladder\SnakeandLadder\SnakeandLadder\obj\Debug\netcoreapp3.1\SnakeandLadder.genruntimeconfig.cache
